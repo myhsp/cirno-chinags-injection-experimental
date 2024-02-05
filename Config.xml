@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Settings xmlns="urn:Chinags-Configuration" AddonName="Cirno.ChinaGS.Injection.Experimental">
+  <Dictionaries>
+    <Dict Name="baseConfig" Caption="基础配置">
+      <Key Caption="卡号" Choice="" Name="cards" Value=""/>
+      <!-- 支持八位十六进制卡号明文或 sha256 -->
+    </Dict>
+  </Dictionaries>
+</Settings>

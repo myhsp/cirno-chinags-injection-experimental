@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Extensibility xmlns="urn:Chinags-Extensibility-1.0" Name="Cirno 刷卡后台组件 preview 版本" SymbolicName="Cirno.ChinaGS.Injection.Experimental" Version="1.0.0.0" StartLevel="85">
+  <License>fqsxhuLSbsIamuG/XcPf4Tp+goF+S3FXt6Ycg4+U3sDel+9B0WmSkQBisLjIIKY3H6nhnOCaaYjnd63T9hX47wAvytBccpZnnLtADiTObEevzpiwqiJNSk5MXYZfLL9ZAhkFtxl4Ke2CgSDDTdSIuQW3oYayMMxHlS5ixkKuDRY=</License>
+  <Activator Type="Cirno.ChinaGS.Injection.Experimental.Program"/>
+  <Runtime>
+    <Assembly Path="Cirno.ChinaGS.Injection.Experimental.dll" Share="true"/>
+  </Runtime>
+  <Services>
+  </Services>
+
+</Extensibility>
