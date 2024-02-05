@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cirno.ChinaGS.Injection.Experimental", "Cirno.ChinaGS.Injection.Experimental\Cirno.ChinaGS.Injection.Experimental.csproj", "{BD884F29-8FD2-4F09-930E-327E18D44114}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD884F29-8FD2-4F09-930E-327E18D44114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD884F29-8FD2-4F09-930E-327E18D44114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD884F29-8FD2-4F09-930E-327E18D44114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD884F29-8FD2-4F09-930E-327E18D44114}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A0A7E5A-C65F-4F76-8854-E46D28AFD88A}
+	EndGlobalSection
+EndGlobal
